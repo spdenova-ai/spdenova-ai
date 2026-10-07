@@ -1,4 +1,5 @@
 ## Hi there 👋
+ I'm Santos!  Operations professional currently learning and building my skillset in IT Security Administration, with a focus in ServiceNow deployment.  Certified System Administrator (CSA) in ServiceNow. 
 
 <!--
 **spdenova-ai/spdenova-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
